@@ -5,7 +5,7 @@
 
 - **Project title:** Predicting lung cancer incidence in a U.S. county
 - **Team members:** Fal Elgizouli, Payton Gergen, Micaiah Lee
-- **Repository URL:** [Replace with the URL of your team's fork]
+- **Repository URL:** https://github.com/micaiahjiarong-beep/project_template.git
 
 ## Repository structure
 
