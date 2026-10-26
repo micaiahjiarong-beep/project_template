@@ -3,7 +3,8 @@
 Place the data needed to reproduce the project analysis in this directory when
 file size, licensing, and privacy requirements allow it.
 
-For any data that cannot be committed, document:
+For any data that cannot be committed, document:​
+
 
 - the original provider and source URL;
 - the date and method of access;
